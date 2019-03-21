@@ -1,4 +1,4 @@
-# Let's Get Started
+## React + TypeScript + Styled Components
 
 ---
 
