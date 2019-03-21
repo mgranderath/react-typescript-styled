@@ -8,7 +8,8 @@ Tech Club - Malte Granderath
 
 - [NPM](https://www.npmjs.com/get-npm) should already be installed
 
-1. Install `create-react-app` by running `npm install -g create-react-app` in the terminal
+1. Install @color[#fff](`create-react-app`) by running @color[#fff](`npm install -g create-react-app`) in the terminal
+2. Create a new folder for the project
 
 ---
 @title[Customize Slide Layout]
