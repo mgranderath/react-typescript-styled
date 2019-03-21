@@ -1,10 +1,14 @@
-## React + TypeScript + Styled Components
+### React + TS + Styled Components
+Tech Club - Malte Granderath
 
 ---
+@title[Getting Started]
 
-## Add Some Slide Candy
+### Getting Started
 
-![](assets/img/presentation.png)
+- [NPM](https://www.npmjs.com/get-npm) should already be installed
+
+1. Install `create-react-app` by running `npm install -g create-react-app` in the terminal
 
 ---
 @title[Customize Slide Layout]
